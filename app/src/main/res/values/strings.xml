@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Alarm Birth Control Pills</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="info">file:///android_asset/html/info.html</string>
+    <string name="pills">file:///android_asset/html/pills.html</string>
+    <string name="guide">file:///android_asset/html/guide.html</string>
+    <string name="effect">file:///android_asset/html/effect.html</string>
+    <string name="eth20">file:///android_asset/html/eth20.html</string>
+    <string name="eth30">file:///android_asset/html/eth30.html</string>
+    <string name="txtInfoTitle">ข้อมูลยาเม็ดคุมกำเนิด</string>
+    <string name="txtSolution">การแก้ใขเมื่อลืมรับประทาน</string>
+    <string name="txtCalendar">ปฏิทินแจ้งเตือน</string>
+    <string name="btETH30">ethinylestradiol 30-35 มคก.</string>
+    <string name="btETH20">ethinylestradiol 20 มคก.</string>
+
+    <string-array name="pills">
+        <item>Anamai</item>
+        <item>Anna</item>
+        <item>Annie</item>
+        <item>Annylyn 21</item>
+        <item>Annylyn 28</item>
+        <item>Belara</item>
+        <item>B-Lady</item>
+        <item>Cerazette</item>
+    </string-array>
+</resources>
